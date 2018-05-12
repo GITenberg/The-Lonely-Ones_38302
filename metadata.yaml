@@ -1,0 +1,38 @@
+_repo: The-Lonely-Ones_38302
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 38302-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ludwig, Edward W.
+    alias: Ludwig, Edward William
+    birthdate: 1920
+    deathdate: 1990
+    gutenberg_agent_id: '35976'
+    url: http://www.gutenberg.org/2009/agents/35976
+description: ''
+gutenberg_issued: '2011-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Space flight -- Fiction'
+- !lcc 'PS'
+title: The Lonely Ones
+url: http://www.gutenberg.org/ebooks/38302
